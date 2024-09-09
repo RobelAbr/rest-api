@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "jpg": "https://via.placeholder.com/500x350",
+    "name": "Doe",
+    "vorname": "John",
+    "adresse": "1234 Main St, Anytown, USA",
+    "pan_card_number": "1234-5678-9012-3456",
+    "expiration_date": "12/24"
+  },
+  {
+    "id": 2,
+    "jpg": "https://via.placeholder.com/500x350",
+    "name": "Smith",
+    "vorname": "Jane",
+    "adresse": "5678 Elm St, Anytown, USA",
+    "pan_card_number": "2345-6789-0123-4567",
+    "expiration_date": "11/23"
+  }
+]
